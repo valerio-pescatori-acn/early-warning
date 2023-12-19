@@ -1,0 +1,125 @@
+{
+    "d": {
+        "results": [{
+                "__metadata": {
+                    "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_GPM_RULES_CDS/ZCRM_GPM_RULES('ATECO')",
+                    "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_GPM_RULES_CDS/ZCRM_GPM_RULES('ATECO')",
+                    "type": "ZCRM_GPM_RULES_CDS.ZCRM_GPM_RULESType"
+                },
+                "ProcedureRuleDescription": "ATECO"
+            },
+            {
+                "__metadata": {
+                    "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_GPM_RULES_CDS/ZCRM_GPM_RULES('ATECO%2084.11.10')",
+                    "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_GPM_RULES_CDS/ZCRM_GPM_RULES('ATECO%2084.11.10')",
+                    "type": "ZCRM_GPM_RULES_CDS.ZCRM_GPM_RULESType"
+                },
+                "ProcedureRuleDescription": "ATECO 84.11.10"
+            },
+            {
+                "__metadata": {
+                    "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_GPM_RULES_CDS/ZCRM_GPM_RULES('Aziende%20private')",
+                    "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_GPM_RULES_CDS/ZCRM_GPM_RULES('Aziende%20private')",
+                    "type": "ZCRM_GPM_RULES_CDS.ZCRM_GPM_RULESType"
+                },
+                "ProcedureRuleDescription": "Aziende private"
+            },
+            {
+                "__metadata": {
+                    "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_GPM_RULES_CDS/ZCRM_GPM_RULES('Aziende%20pubblliche')",
+                    "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_GPM_RULES_CDS/ZCRM_GPM_RULES('Aziende%20pubblliche')",
+                    "type": "ZCRM_GPM_RULES_CDS.ZCRM_GPM_RULESType"
+                },
+                "ProcedureRuleDescription": "Aziende pubblliche"
+            },
+            {
+                "__metadata": {
+                    "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_GPM_RULES_CDS/ZCRM_GPM_RULES('Comuni%20e%20unione%20di%20Comunii')",
+                    "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_GPM_RULES_CDS/ZCRM_GPM_RULES('Comuni%20e%20unione%20di%20Comunii')",
+                    "type": "ZCRM_GPM_RULES_CDS.ZCRM_GPM_RULESType"
+                },
+                "ProcedureRuleDescription": "Comuni e unione di Comunii"
+            },
+            {
+                "__metadata": {
+                    "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_GPM_RULES_CDS/ZCRM_GPM_RULES('Impresa')",
+                    "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_GPM_RULES_CDS/ZCRM_GPM_RULES('Impresa')",
+                    "type": "ZCRM_GPM_RULES_CDS.ZCRM_GPM_RULESType"
+                },
+                "ProcedureRuleDescription": "Impresa"
+            },
+            {
+                "__metadata": {
+                    "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_GPM_RULES_CDS/ZCRM_GPM_RULES('Organizzazioni%20pubbliche')",
+                    "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_GPM_RULES_CDS/ZCRM_GPM_RULES('Organizzazioni%20pubbliche')",
+                    "type": "ZCRM_GPM_RULES_CDS.ZCRM_GPM_RULESType"
+                },
+                "ProcedureRuleDescription": "Organizzazioni pubbliche"
+            },
+            {
+                "__metadata": {
+                    "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_GPM_RULES_CDS/ZCRM_GPM_RULES('Private%20companies')",
+                    "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_GPM_RULES_CDS/ZCRM_GPM_RULES('Private%20companies')",
+                    "type": "ZCRM_GPM_RULES_CDS.ZCRM_GPM_RULESType"
+                },
+                "ProcedureRuleDescription": "Private companies"
+            },
+            {
+                "__metadata": {
+                    "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_GPM_RULES_CDS/ZCRM_GPM_RULES('Pubblica%20amministrazione')",
+                    "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_GPM_RULES_CDS/ZCRM_GPM_RULES('Pubblica%20amministrazione')",
+                    "type": "ZCRM_GPM_RULES_CDS.ZCRM_GPM_RULESType"
+                },
+                "ProcedureRuleDescription": "Pubblica amministrazione"
+            },
+            {
+                "__metadata": {
+                    "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_GPM_RULES_CDS/ZCRM_GPM_RULES('Pubbliche%20amministrazioni')",
+                    "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_GPM_RULES_CDS/ZCRM_GPM_RULES('Pubbliche%20amministrazioni')",
+                    "type": "ZCRM_GPM_RULES_CDS.ZCRM_GPM_RULESType"
+                },
+                "ProcedureRuleDescription": "Pubbliche amministrazioni"
+            },
+            {
+                "__metadata": {
+                    "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_GPM_RULES_CDS/ZCRM_GPM_RULES('Public%20Companies')",
+                    "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_GPM_RULES_CDS/ZCRM_GPM_RULES('Public%20Companies')",
+                    "type": "ZCRM_GPM_RULES_CDS.ZCRM_GPM_RULESType"
+                },
+                "ProcedureRuleDescription": "Public Companies"
+            },
+            {
+                "__metadata": {
+                    "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_GPM_RULES_CDS/ZCRM_GPM_RULES('Public%20Sector')",
+                    "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_GPM_RULES_CDS/ZCRM_GPM_RULES('Public%20Sector')",
+                    "type": "ZCRM_GPM_RULES_CDS.ZCRM_GPM_RULESType"
+                },
+                "ProcedureRuleDescription": "Public Sector"
+            },
+            {
+                "__metadata": {
+                    "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_GPM_RULES_CDS/ZCRM_GPM_RULES('Regola%20n.001')",
+                    "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_GPM_RULES_CDS/ZCRM_GPM_RULES('Regola%20n.001')",
+                    "type": "ZCRM_GPM_RULES_CDS.ZCRM_GPM_RULESType"
+                },
+                "ProcedureRuleDescription": "Regola n.001"
+            },
+            {
+                "__metadata": {
+                    "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_GPM_RULES_CDS/ZCRM_GPM_RULES('Soggetti%20pubblici')",
+                    "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_GPM_RULES_CDS/ZCRM_GPM_RULES('Soggetti%20pubblici')",
+                    "type": "ZCRM_GPM_RULES_CDS.ZCRM_GPM_RULESType"
+                },
+                "ProcedureRuleDescription": "Soggetti pubblici"
+            },
+            {
+                "__metadata": {
+                    "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_GPM_RULES_CDS/ZCRM_GPM_RULES('Test%20LD')",
+                    "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_GPM_RULES_CDS/ZCRM_GPM_RULES('Test%20LD')",
+                    "type": "ZCRM_GPM_RULES_CDS.ZCRM_GPM_RULESType"
+                },
+                "ProcedureRuleDescription": "Test LD"
+            }
+        ]
+    }
+}

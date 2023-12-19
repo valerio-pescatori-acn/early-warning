@@ -1,0 +1,50 @@
+{
+  "d": {
+    "results": [
+      {
+        "__metadata": {
+          "id": "https://l2vswdlwss01.mef.gov.it:44370/sap/opu/odata/sap/ZSS4_PORTALE_ENTI_SRV/ZES_TipologiaRichSet(MacroTipologia='01',Tipologia='01')",
+          "uri": "https://l2vswdlwss01.mef.gov.it:44370/sap/opu/odata/sap/ZSS4_PORTALE_ENTI_SRV/ZES_TipologiaRichSet(MacroTipologia='01',Tipologia='01')",
+          "type": "ZSS4_PORTALE_ENTI_SRV.ZET_TipologiaRich"
+        },
+        "MacroTipologia": "01",
+        "MacroTipologiaTxt": "Gestione utenti e Associazione Progetti",
+        "Tipologia": "01",
+        "TipologiaTxt": "Creazione nuove utenze"
+      },
+      {
+        "__metadata": {
+          "id": "https://l2vswdlwss01.mef.gov.it:44370/sap/opu/odata/sap/ZSS4_PORTALE_ENTI_SRV/ZES_TipologiaRichSet(MacroTipologia='01',Tipologia='02')",
+          "uri": "https://l2vswdlwss01.mef.gov.it:44370/sap/opu/odata/sap/ZSS4_PORTALE_ENTI_SRV/ZES_TipologiaRichSet(MacroTipologia='01',Tipologia='02')",
+          "type": "ZSS4_PORTALE_ENTI_SRV.ZET_TipologiaRich"
+        },
+        "MacroTipologia": "01",
+        "MacroTipologiaTxt": "Gestione utenti e Associazione Progetti",
+        "Tipologia": "02",
+        "TipologiaTxt": "Disabilitazione utenze"
+      },
+      {
+        "__metadata": {
+          "id": "https://l2vswdlwss01.mef.gov.it:44370/sap/opu/odata/sap/ZSS4_PORTALE_ENTI_SRV/ZES_TipologiaRichSet(MacroTipologia='01',Tipologia='03')",
+          "uri": "https://l2vswdlwss01.mef.gov.it:44370/sap/opu/odata/sap/ZSS4_PORTALE_ENTI_SRV/ZES_TipologiaRichSet(MacroTipologia='01',Tipologia='03')",
+          "type": "ZSS4_PORTALE_ENTI_SRV.ZET_TipologiaRich"
+        },
+        "MacroTipologia": "01",
+        "MacroTipologiaTxt": "Gestione utenti e Associazione Progetti",
+        "Tipologia": "03",
+        "TipologiaTxt": "Associazione massiva utenti/progetti"
+      },
+      {
+        "__metadata": {
+          "id": "https://l2vswdlwss01.mef.gov.it:44370/sap/opu/odata/sap/ZSS4_PORTALE_ENTI_SRV/ZES_TipologiaRichSet(MacroTipologia='01',Tipologia='04')",
+          "uri": "https://l2vswdlwss01.mef.gov.it:44370/sap/opu/odata/sap/ZSS4_PORTALE_ENTI_SRV/ZES_TipologiaRichSet(MacroTipologia='01',Tipologia='04')",
+          "type": "ZSS4_PORTALE_ENTI_SRV.ZET_TipologiaRich"
+        },
+        "MacroTipologia": "01",
+        "MacroTipologiaTxt": "Gestione utenti e Associazione Progetti",
+        "Tipologia": "04",
+        "TipologiaTxt": "Disassociazione progetti"
+      }
+    ]
+  }
+}

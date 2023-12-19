@@ -1,0 +1,345 @@
+{
+    "d": {
+        "results": [{
+                "__metadata": {
+                    "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('A020')",
+                    "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('A020')",
+                    "type": "ZCRM_AUTH_GROUP_CDS.ZCRM_AUTH_GROUPType"
+                },
+                "AuthGroupID": "A020",
+                "AuthGroupDescription": "Ministero dell'Economia e delle Finanze",
+                "BusinessPartnerUrl": ""
+            },
+            {
+                "__metadata": {
+                    "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('V316')",
+                    "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('V316')",
+                    "type": "ZCRM_AUTH_GROUP_CDS.ZCRM_AUTH_GROUPType"
+                },
+                "AuthGroupID": "V316",
+                "AuthGroupDescription": "Min. Innovazione Tec. e Transazione Dig.",
+                "BusinessPartnerUrl": "https://www.google.com"
+            },
+            {
+                "__metadata": {
+                    "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('B030')",
+                    "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('B030')",
+                    "type": "ZCRM_AUTH_GROUP_CDS.ZCRM_AUTH_GROUPType"
+                },
+                "AuthGroupID": "B030",
+                "AuthGroupDescription": "MISE",
+                "BusinessPartnerUrl": ""
+            },
+            {
+                "__metadata": {
+                    "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('I100')",
+                    "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('I100')",
+                    "type": "ZCRM_AUTH_GROUP_CDS.ZCRM_AUTH_GROUPType"
+                },
+                "AuthGroupID": "I100",
+                "AuthGroupDescription": "Min. Infrastrutture e mobilità sostenib.",
+                "BusinessPartnerUrl": ""
+            },
+            {
+                "__metadata": {
+                    "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('V197')",
+                    "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('V197')",
+                    "type": "ZCRM_AUTH_GROUP_CDS.ZCRM_AUTH_GROUPType"
+                },
+                "AuthGroupID": "V197",
+                "AuthGroupDescription": "Giustizia Amministrativa (consiglio di s",
+                "BusinessPartnerUrl": ""
+            },
+            {
+                "__metadata": {
+                    "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('C040')",
+                    "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('C040')",
+                    "type": "ZCRM_AUTH_GROUP_CDS.ZCRM_AUTH_GROUPType"
+                },
+                "AuthGroupID": "C040",
+                "AuthGroupDescription": "Ministero del Lavoro e delle Politiche S",
+                "BusinessPartnerUrl": ""
+            },
+            {
+                "__metadata": {
+                    "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('D050')",
+                    "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('D050')",
+                    "type": "ZCRM_AUTH_GROUP_CDS.ZCRM_AUTH_GROUPType"
+                },
+                "AuthGroupID": "D050",
+                "AuthGroupDescription": "Ministero della Giustizia",
+                "BusinessPartnerUrl": ""
+            },
+            {
+                "__metadata": {
+                    "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('F070')",
+                    "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('F070')",
+                    "type": "ZCRM_AUTH_GROUP_CDS.ZCRM_AUTH_GROUPType"
+                },
+                "AuthGroupID": "F070",
+                "AuthGroupDescription": "Ministero dell'Istruzione",
+                "BusinessPartnerUrl": ""
+            },
+            {
+                "__metadata": {
+                    "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('G080')",
+                    "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('G080')",
+                    "type": "ZCRM_AUTH_GROUP_CDS.ZCRM_AUTH_GROUPType"
+                },
+                "AuthGroupID": "G080",
+                "AuthGroupDescription": "Ministero dell'Interno",
+                "BusinessPartnerUrl": ""
+            },
+            {
+                "__metadata": {
+                    "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('H090')",
+                    "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('H090')",
+                    "type": "ZCRM_AUTH_GROUP_CDS.ZCRM_AUTH_GROUPType"
+                },
+                "AuthGroupID": "H090",
+                "AuthGroupDescription": "Ministero Ambiente e Tutela del Territor",
+                "BusinessPartnerUrl": ""
+            },
+            {
+                "__metadata": {
+                    "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('J110')",
+                    "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('J110')",
+                    "type": "ZCRM_AUTH_GROUP_CDS.ZCRM_AUTH_GROUPType"
+                },
+                "AuthGroupID": "J110",
+                "AuthGroupDescription": "Ministero dell'Università e della Ricerc",
+                "BusinessPartnerUrl": ""
+            },
+            {
+                "__metadata": {
+                    "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('K120')",
+                    "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('K120')",
+                    "type": "ZCRM_AUTH_GROUP_CDS.ZCRM_AUTH_GROUPType"
+                },
+                "AuthGroupID": "K120",
+                "AuthGroupDescription": "Ministero della Difesa",
+                "BusinessPartnerUrl": ""
+            },
+            {
+                "__metadata": {
+                    "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('L130')",
+                    "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('L130')",
+                    "type": "ZCRM_AUTH_GROUP_CDS.ZCRM_AUTH_GROUPType"
+                },
+                "AuthGroupID": "L130",
+                "AuthGroupDescription": "Ministero Politiche Agricole Alimentari",
+                "BusinessPartnerUrl": ""
+            },
+            {
+                "__metadata": {
+                    "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('M140')",
+                    "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('M140')",
+                    "type": "ZCRM_AUTH_GROUP_CDS.ZCRM_AUTH_GROUPType"
+                },
+                "AuthGroupID": "M140",
+                "AuthGroupDescription": "Ministero per Beni e Attività Culturali",
+                "BusinessPartnerUrl": ""
+            },
+            {
+                "__metadata": {
+                    "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('N150')",
+                    "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('N150')",
+                    "type": "ZCRM_AUTH_GROUP_CDS.ZCRM_AUTH_GROUPType"
+                },
+                "AuthGroupID": "N150",
+                "AuthGroupDescription": "Ministero della Salute",
+                "BusinessPartnerUrl": ""
+            },
+            {
+                "__metadata": {
+                    "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('O160')",
+                    "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('O160')",
+                    "type": "ZCRM_AUTH_GROUP_CDS.ZCRM_AUTH_GROUPType"
+                },
+                "AuthGroupID": "O160",
+                "AuthGroupDescription": "Ministero del Turismo",
+                "BusinessPartnerUrl": ""
+            },
+            {
+                "__metadata": {
+                    "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('V196')",
+                    "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('V196')",
+                    "type": "ZCRM_AUTH_GROUP_CDS.ZCRM_AUTH_GROUPType"
+                },
+                "AuthGroupID": "V196",
+                "AuthGroupDescription": "PCM - Presidenza Consiglio Ministri",
+                "BusinessPartnerUrl": ""
+            },
+            {
+                "__metadata": {
+                    "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('V300')",
+                    "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('V300')",
+                    "type": "ZCRM_AUTH_GROUP_CDS.ZCRM_AUTH_GROUPType"
+                },
+                "AuthGroupID": "V300",
+                "AuthGroupDescription": "Dipartimento della Famiglia della Pres.",
+                "BusinessPartnerUrl": ""
+            },
+            {
+                "__metadata": {
+                    "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('V301')",
+                    "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('V301')",
+                    "type": "ZCRM_AUTH_GROUP_CDS.ZCRM_AUTH_GROUPType"
+                },
+                "AuthGroupID": "V301",
+                "AuthGroupDescription": "Autorità di regolazione per energia reti",
+                "BusinessPartnerUrl": ""
+            },
+            {
+                "__metadata": {
+                    "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('V302')",
+                    "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('V302')",
+                    "type": "ZCRM_AUTH_GROUP_CDS.ZCRM_AUTH_GROUPType"
+                },
+                "AuthGroupID": "V302",
+                "AuthGroupDescription": "Agenzia Nazionale Politiche Attive Lavor",
+                "BusinessPartnerUrl": ""
+            },
+            {
+                "__metadata": {
+                    "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('V303')",
+                    "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('V303')",
+                    "type": "ZCRM_AUTH_GROUP_CDS.ZCRM_AUTH_GROUPType"
+                },
+                "AuthGroupID": "V303",
+                "AuthGroupDescription": "Autorità nazionale anticorruzione",
+                "BusinessPartnerUrl": ""
+            },
+            {
+                "__metadata": {
+                    "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('V304')",
+                    "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('V304')",
+                    "type": "ZCRM_AUTH_GROUP_CDS.ZCRM_AUTH_GROUPType"
+                },
+                "AuthGroupID": "V304",
+                "AuthGroupDescription": "Agenzia Cyber Security",
+                "BusinessPartnerUrl": ""
+            },
+            {
+                "__metadata": {
+                    "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('V305')",
+                    "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('V305')",
+                    "type": "ZCRM_AUTH_GROUP_CDS.ZCRM_AUTH_GROUPType"
+                },
+                "AuthGroupID": "V305",
+                "AuthGroupDescription": "PCM - Dip. Funzione Pubblica",
+                "BusinessPartnerUrl": ""
+            },
+            {
+                "__metadata": {
+                    "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('V306')",
+                    "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('V306')",
+                    "type": "ZCRM_AUTH_GROUP_CDS.ZCRM_AUTH_GROUPType"
+                },
+                "AuthGroupID": "V306",
+                "AuthGroupDescription": "PCM - Dip. Pari opportunità",
+                "BusinessPartnerUrl": ""
+            },
+            {
+                "__metadata": {
+                    "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('V307')",
+                    "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('V307')",
+                    "type": "ZCRM_AUTH_GROUP_CDS.ZCRM_AUTH_GROUPType"
+                },
+                "AuthGroupID": "V307",
+                "AuthGroupDescription": "PCM - Dip. Protezione civile",
+                "BusinessPartnerUrl": ""
+            },
+            {
+                "__metadata": {
+                    "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('V308')",
+                    "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('V308')",
+                    "type": "ZCRM_AUTH_GROUP_CDS.ZCRM_AUTH_GROUPType"
+                },
+                "AuthGroupID": "V308",
+                "AuthGroupDescription": "PCM - Dipartimento Affari Regionali e le",
+                "BusinessPartnerUrl": ""
+            },
+            {
+                "__metadata": {
+                    "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('V309')",
+                    "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('V309')",
+                    "type": "ZCRM_AUTH_GROUP_CDS.ZCRM_AUTH_GROUPType"
+                },
+                "AuthGroupID": "V309",
+                "AuthGroupDescription": "PCM - Dip politiche giovanili e Servizio",
+                "BusinessPartnerUrl": ""
+            },
+            {
+                "__metadata": {
+                    "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('V310')",
+                    "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('V310')",
+                    "type": "ZCRM_AUTH_GROUP_CDS.ZCRM_AUTH_GROUPType"
+                },
+                "AuthGroupID": "V310",
+                "AuthGroupDescription": "PCM - DIPE",
+                "BusinessPartnerUrl": ""
+            },
+            {
+                "__metadata": {
+                    "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('V311')",
+                    "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('V311')",
+                    "type": "ZCRM_AUTH_GROUP_CDS.ZCRM_AUTH_GROUPType"
+                },
+                "AuthGroupID": "V311",
+                "AuthGroupDescription": "Min salute tramite l'Ag nazionale serv s",
+                "BusinessPartnerUrl": ""
+            },
+            {
+                "__metadata": {
+                    "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('V312')",
+                    "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('V312')",
+                    "type": "ZCRM_AUTH_GROUP_CDS.ZCRM_AUTH_GROUPType"
+                },
+                "AuthGroupID": "V312",
+                "AuthGroupDescription": "PCM - Ministero per il Sud e la coesione",
+                "BusinessPartnerUrl": ""
+            },
+            {
+                "__metadata": {
+                    "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('V313')",
+                    "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('V313')",
+                    "type": "ZCRM_AUTH_GROUP_CDS.ZCRM_AUTH_GROUPType"
+                },
+                "AuthGroupID": "V313",
+                "AuthGroupDescription": "PCM Dip. Disabilità in co-gestione",
+                "BusinessPartnerUrl": ""
+            },
+            {
+                "__metadata": {
+                    "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('V314')",
+                    "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('V314')",
+                    "type": "ZCRM_AUTH_GROUP_CDS.ZCRM_AUTH_GROUPType"
+                },
+                "AuthGroupID": "V314",
+                "AuthGroupDescription": "PCM DIS",
+                "BusinessPartnerUrl": ""
+            },
+            {
+                "__metadata": {
+                    "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('V315')",
+                    "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('V315')",
+                    "type": "ZCRM_AUTH_GROUP_CDS.ZCRM_AUTH_GROUPType"
+                },
+                "AuthGroupID": "V315",
+                "AuthGroupDescription": "PCM-Dip.Sport",
+                "BusinessPartnerUrl": ""
+            },
+            {
+                "__metadata": {
+                    "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('E060')",
+                    "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_AUTH_GROUP_CDS/ZCRM_AUTH_GROUP('E060')",
+                    "type": "ZCRM_AUTH_GROUP_CDS.ZCRM_AUTH_GROUPType"
+                },
+                "AuthGroupID": "E060",
+                "AuthGroupDescription": "Min. Affari Esteri e della Coop. Inter.",
+                "BusinessPartnerUrl": "www.sap.com"
+            }
+        ]
+    }
+}

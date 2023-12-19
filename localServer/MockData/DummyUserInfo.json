@@ -1,0 +1,47 @@
+{
+    "decodedJWTToken": {
+        "jti": "1d00258db9a943b5be2b918e11ce568f",
+        "ext_attr": {
+            "enhancer": "XSUAA",
+            "subaccountid": "0a83df5a-e20c-4d3e-9180-fa60632e84ca",
+            "zdn": "regis-sviluppo-q8rh8azo"
+        },
+        "xs.system.attributes": {
+            "xs.rolecollections": [
+                "Destination Administrator",
+                "Business_Application_Studio_Developer",
+                "AmministrazioneRGS",
+                "Business_Application_Studio_Extension_Deployer",
+                "Business_Application_Studio_Administrator",
+                "Utente Cronoprogramma"
+            ]
+        },
+        "given_name": "Mario",
+        "xs.user.attributes": {},
+        "family_name": "Rossi",
+        "sub": "59ede072-532f-470f-848f-cc8c71cc3059",
+        "scope": [
+            "openid",
+            "uaa.user"
+        ],
+        "client_id": "sb-bandiapp!t135269",
+        "cid": "sb-bandiapp!t135269",
+        "azp": "sb-bandiapp!t135269",
+        "grant_type": "authorization_code",
+        "user_id": "59ede072-532f-470f-848f-cc8c71cc3059",
+        "origin": "sap.default",
+        "user_name": "FRRSMC68L16F704U",
+        "email": "mario.rossi@acme.com",
+        "auth_time": 1657986128,
+        "rev_sig": "4543bac8",
+        "iat": 1657987534,
+        "exp": 1658030734,
+        "iss": "https://regis-sviluppo-q8rh8azo.authentication.eu10.hana.ondemand.com/oauth/token",
+        "zid": "0a83df5a-e20c-4d3e-9180-fa60632e84ca",
+        "aud": [
+            "uaa",
+            "openid",
+            "sb-bandiapp!t135269"
+        ]
+    }
+}

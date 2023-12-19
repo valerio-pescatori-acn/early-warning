@@ -1,0 +1,45 @@
+{
+    "d": {
+        "results": [{
+                "__metadata": {
+                    "id": "https://l2vswdlwss01.mef.gov.it:44370/sap/opu/odata/sap/ZGTR_AUTHENTICATION_BP_SRV/ZGTR_FISCAL_CODE_TO_BP(UserFiscalCode='PLNPRN00A25H501X',BusinessPartnerID='0050001007')",
+                    "uri": "https://l2vswdlwss01.mef.gov.it:44370/sap/opu/odata/sap/ZGTR_AUTHENTICATION_BP_SRV/ZGTR_FISCAL_CODE_TO_BP(UserFiscalCode='PLNPRN00A25H501X',BusinessPartnerID='0050001007')",
+                    "type": "ZGTR_AUTHENTICATION_BP_SRV.ZGTR_FISCAL_CODE_TO_BPType"
+                },
+                "UserFiscalCode": "PLNPRN00A25H501X",
+                "BusinessPartnerID": "0050001007",
+                "IsMaster": false,
+                "ActivationProfile": "B",
+                "CoWorkerMailAddress": "federico.pagliaro@sap.com",
+                "CoWorkerFirstname": "Paperino",
+                "CoWorkerLastname": "Paolino",
+                "CoWorkerConfirmation": true,
+                "BusinessPartnerDescription": "EBNR SPINGES",
+                "BusinessPartnerTaxType": "IT1",
+                "BusinessPartnerFiscalCode": "81008080210",
+                "ChangedAt": "/Date(1663087692724+0000)/",
+                "FiscalCodeChangedBy": "02124651007"
+            },
+            {
+                "__metadata": {
+                    "id": "https://l2vswdlwss01.mef.gov.it:44370/sap/opu/odata/sap/ZGTR_AUTHENTICATION_BP_SRV/ZGTR_FISCAL_CODE_TO_BP(UserFiscalCode='PLNPRN00A25H501X',BusinessPartnerID='0050001007')",
+                    "uri": "https://l2vswdlwss01.mef.gov.it:44370/sap/opu/odata/sap/ZGTR_AUTHENTICATION_BP_SRV/ZGTR_FISCAL_CODE_TO_BP(UserFiscalCode='PLNPRN00A25H501X',BusinessPartnerID='0050001007')",
+                    "type": "ZGTR_AUTHENTICATION_BP_SRV.ZGTR_FISCAL_CODE_TO_BPType"
+                },
+                "UserFiscalCode": "PLNPRN00A25H501X",
+                "BusinessPartnerID": "0050001007",
+                "IsMaster": false,
+                "ActivationProfile": "B",
+                "CoWorkerMailAddress": "federico.pagliaro@sap.com",
+                "CoWorkerFirstname": "Poggipollini",
+                "CoWorkerLastname": "Gianfranco Maria",
+                "CoWorkerConfirmation": true,
+                "BusinessPartnerDescription": "EBNR SPINGES",
+                "BusinessPartnerTaxType": "IT1",
+                "BusinessPartnerFiscalCode": "81008080210",
+                "ChangedAt": "/Date(1663087692724+0000)/",
+                "FiscalCodeChangedBy": "02124651007"
+            }
+        ]
+    }
+}

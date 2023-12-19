@@ -1,0 +1,45 @@
+{
+    "d": {
+        "results": [
+            {
+                "__metadata": {
+                    "id": "https://l2vswdlwss01.mef.gov.it:44370/sap/opu/odata/sap/ZSS4_PORTALE_ENTI_SRV/ZES_WorkflowApprSet(Amministrazione='M140',TipologiaRich='01')",
+                    "uri": "https://l2vswdlwss01.mef.gov.it:44370/sap/opu/odata/sap/ZSS4_PORTALE_ENTI_SRV/ZES_WorkflowApprSet(Amministrazione='M140',TipologiaRich='01')",
+                    "type": "ZSS4_PORTALE_ENTI_SRV.ZET_WorkflowAppr"
+                },
+                "Amministrazione": "M140",
+                "AmministrazioneTxt": "MIC - Min cultura",
+                "TipologiaRich": "01",
+                "TipologiaRichTxt": "Creazione nuove utenze",
+                "ApprAmmTit": true,
+                "ApprRgs": true
+            },
+            {
+                "__metadata": {
+                    "id": "https://l2vswdlwss01.mef.gov.it:44370/sap/opu/odata/sap/ZSS4_PORTALE_ENTI_SRV/ZES_WorkflowApprSet(Amministrazione='N150',TipologiaRich='01')",
+                    "uri": "https://l2vswdlwss01.mef.gov.it:44370/sap/opu/odata/sap/ZSS4_PORTALE_ENTI_SRV/ZES_WorkflowApprSet(Amministrazione='N150',TipologiaRich='01')",
+                    "type": "ZSS4_PORTALE_ENTI_SRV.ZET_WorkflowAppr"
+                },
+                "Amministrazione": "N150",
+                "AmministrazioneTxt": "MS - Min Salute",
+                "TipologiaRich": "01",
+                "TipologiaRichTxt": "Creazione nuove utenze",
+                "ApprAmmTit": true,
+                "ApprRgs": true
+            },
+            {
+                "__metadata": {
+                    "id": "https://l2vswdlwss01.mef.gov.it:44370/sap/opu/odata/sap/ZSS4_PORTALE_ENTI_SRV/ZES_WorkflowApprSet(Amministrazione='V303',TipologiaRich='05')",
+                    "uri": "https://l2vswdlwss01.mef.gov.it:44370/sap/opu/odata/sap/ZSS4_PORTALE_ENTI_SRV/ZES_WorkflowApprSet(Amministrazione='V303',TipologiaRich='05')",
+                    "type": "ZSS4_PORTALE_ENTI_SRV.ZET_WorkflowAppr"
+                },
+                "Amministrazione": "V303",
+                "AmministrazioneTxt": "Aut. Naz. anticor.",
+                "TipologiaRich": "05",
+                "TipologiaRichTxt": "",
+                "ApprAmmTit": true,
+                "ApprRgs": true
+            }
+        ]
+    }
+}

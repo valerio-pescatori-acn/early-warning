@@ -1,0 +1,470 @@
+{
+    "d": {
+        "IdRichUtenza": "00123123",
+        "Stato": "01",
+        "StatoTxt": "In lavorazione",
+        "Utenti": [
+            {
+                "IdRichUtenza": "00123123",
+                "Nome": "Alessandro",
+                "Cognome": "Musio",
+                "CodFiscale": "msulsn75t04b354z",
+                "Email": "almusweb@gmail.com",
+                "Piva": "13454210157",
+                "Profilo": "01",
+                "Tipologia": "01",
+                "TipologiaAppr": "02",
+                "progetti": [
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "H80D190000422111001202202",
+                        "Cup": "D92G19000200005",
+                        "posIdProg": 10000025862022
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "H80D190000422111001202201",
+                        "Cup": "H76B19002930004",
+                        "posIdProg": 10000026042022
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "H80D190000422111001202201",
+                        "Cup": "G43F20000050009",
+                        "posIdProg": 10000025892022
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "H80D190000422111001202202",
+                        "Cup": "H83H18000290002",
+                        "posIdProg": 10000026072022
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "H80D190000422111001202201",
+                        "Cup": "G34I20000610005",
+                        "posIdProg": 10000026062022
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "H80D190000422111001202202",
+                        "Cup": "D66F18000100003",
+                        "posIdProg": 10000026052022
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "H80D190000422111001202202",
+                        "Cup": "H43C17000150001",
+                        "posIdProg": 10000025972022
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "B83H190004700022328",
+                        "Cup": "D73H18000220006",
+                        "posIdProg": 10000025922022
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "B83H190004700022316",
+                        "Cup": "H98G17000010002",
+                        "posIdProg": 10000025932022
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "B83H190004700022318",
+                        "Cup": "C58E18000120005",
+                        "posIdProg": 10000025952022
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "B83H190004700022320",
+                        "Cup": "I48E18000200006",
+                        "posIdProg": 10000025982022
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "B83H190004700022321",
+                        "Cup": "H11E17000290004",
+                        "posIdProg": 10000025992022
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "B83H190004700022322",
+                        "Cup": "H28E18000140006",
+                        "posIdProg": 10000026002022
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "B83H190004700022323",
+                        "Cup": "B55E17000060002",
+                        "posIdProg": 10000026012022
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "B83H190004700022324",
+                        "Cup": "E77D18000050007",
+                        "posIdProg": 10000026022022
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "0332C10000000002",
+                        "Cup": "H63H18000320002",
+                        "posIdProg": 10000026082022
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "0332C10000000001",
+                        "Cup": "H83H18000170002",
+                        "posIdProg": 10000026092022
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "H80D190000422111001202203",
+                        "Cup": "B89F18000170003",
+                        "posIdProg": 10000026102022
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "287824784734745",
+                        "Cup": "H14I18000510001",
+                        "posIdProg": 10000026572022
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "80005/FF/FP",
+                        "Cup": "B36B19000540005",
+                        "posIdProg": 10000025452021
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "80011/FF/FP",
+                        "Cup": "B11D20000090001",
+                        "posIdProg": 10000025512021
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "287824784734743",
+                        "Cup": "C73H18000260001",
+                        "posIdProg": 10000026542022
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "80019/FF/FP",
+                        "Cup": "J17D18000060007",
+                        "posIdProg": 10000025582021
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "00001 TEST",
+                        "Cup": "D47B19000140001",
+                        "posIdProg": 10000025412021
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "00002 TEST",
+                        "Cup": "H64I18000310006",
+                        "posIdProg": 10000025422021
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "80002/FF/FP",
+                        "Cup": "G49E20001240005",
+                        "posIdProg": 10000025432021
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "80012/FF/FP",
+                        "Cup": "B31D20000150001",
+                        "posIdProg": 10000025522021
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "80013/FF/FP",
+                        "Cup": "B31D20000140001",
+                        "posIdProg": 10000025532021
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "80022/FF/FP",
+                        "Cup": "F51F20000000005",
+                        "posIdProg": 10000025612021
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "B83H190004700022313",
+                        "Cup": "D36E18000010006",
+                        "posIdProg": 10000025902022
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "B83H190004700022319",
+                        "Cup": "G78C19000060001",
+                        "posIdProg": 10000025962022
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "B83H190004700022325",
+                        "Cup": "I17H20003050005",
+                        "posIdProg": 10000026032022
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "80008/FF/FP",
+                        "Cup": "D43H19000900005",
+                        "posIdProg": 10000025482021
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "B83H190004700022317",
+                        "Cup": "B38E18000180001",
+                        "posIdProg": 10000025942022
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "80003/FF/FP",
+                        "Cup": "B43H20000140001",
+                        "posIdProg": 10000025442021
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "80006/FF/FP",
+                        "Cup": "I38E18000430002",
+                        "posIdProg": 10000025462021
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "80007/FF/FP",
+                        "Cup": "F76B18000390006",
+                        "posIdProg": 10000025472021
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "80009/FF/FP",
+                        "Cup": "D81H18000020001",
+                        "posIdProg": 10000025492021
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "80010/FF/FP",
+                        "Cup": "G43H19000040004",
+                        "posIdProg": 10000025502021
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "80014/FF/FP",
+                        "Cup": "J93H19000490001",
+                        "posIdProg": 10000025542021
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "80016/FF/FP",
+                        "Cup": "D78E18000360004",
+                        "posIdProg": 10000025552021
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "80017/FF/FP",
+                        "Cup": "F99E18000220001",
+                        "posIdProg": 10000025562021
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "80018/FF/FP",
+                        "Cup": "F38E18000220001",
+                        "posIdProg": 10000025572021
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "80020/FF/FP",
+                        "Cup": "G73F20000060005",
+                        "posIdProg": 10000025592021
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "80021/FF/FP",
+                        "Cup": "D58E18000370006",
+                        "posIdProg": 10000025602021
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "B83H190004700022314",
+                        "Cup": "I44I19000010006",
+                        "posIdProg": 10000025912022
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "B83H190004700022327",
+                        "Cup": "E17B20000040005",
+                        "posIdProg": 10000025882022
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "B83H190004700022326",
+                        "Cup": "H26C17000000007",
+                        "posIdProg": 10000025872022
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "81566/FF/FPA",
+                        "Cup": "F21I18000050001",
+                        "posIdProg": 10000025742021
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "81565/FF/FPA",
+                        "Cup": "E54I18002440006",
+                        "posIdProg": 10000025732021
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "81563/FF/FPA",
+                        "Cup": "F52B17000000005",
+                        "posIdProg": 10000025722021
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "81562/FF/FPA",
+                        "Cup": "H87B20013540002",
+                        "posIdProg": 10000025712021
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "81560/FF/FPA",
+                        "Cup": "F29E18000100006",
+                        "posIdProg": 10000025702021
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "81559/FF/FPA",
+                        "Cup": "F63H19000440001",
+                        "posIdProg": 10000025692021
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "81558/FF/FPA",
+                        "Cup": "B87H20010650002",
+                        "posIdProg": 10000025682021
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "81557/FF/FPA",
+                        "Cup": "B24E21000520006",
+                        "posIdProg": 10000025672021
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "81556/FF/FPA",
+                        "Cup": "I96J19000220001",
+                        "posIdProg": 10000025662021
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "81555/FF/FPA",
+                        "Cup": "D33H20000220001",
+                        "posIdProg": 10000025652021
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "000001279089",
+                        "Cup": "D58E18000340006",
+                        "posIdProg": 10000025622021
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "859948985989588",
+                        "Cup": "E31B21012700006",
+                        "posIdProg": 10000029212022
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "SRGHUS2345621012022CC",
+                        "Cup": "E61B21010570006",
+                        "posIdProg": 10000027072022
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "SRGHUS2345621012022AS13",
+                        "Cup": "E11B21010380006",
+                        "posIdProg": 10000027052022
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "SRGHUS2345621012022SSQQ",
+                        "Cup": "E11B21011410006",
+                        "posIdProg": 10000027032022
+                    },
+                    {
+                        "IdRichUtenza": "00123123",
+                        "CodFiscale": "msulsn75t04b354z",
+                        "Clp": "SRGHUS23456210120221",
+                        "Cup": "E81B21013430006",
+                        "posIdProg": 10000027012022
+                    }
+                ]
+            }
+        ]
+    }
+}

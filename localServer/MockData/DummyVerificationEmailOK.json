@@ -1,0 +1,22 @@
+{
+    "__metadata": {
+        "id": "https://l2vswdlwss01.mef.gov.it:44370/sap/opu/odata/sap/ZGTR_AUTHENTICATION_WF_SRV/ZGTR_WF_AUTHENTICATION(guid'00505686-7160-1edd-90b1-9e7a6e95c3cc')",
+        "uri": "https://l2vswdlwss01.mef.gov.it:44370/sap/opu/odata/sap/ZGTR_AUTHENTICATION_WF_SRV/ZGTR_WF_AUTHENTICATION(guid'00505686-7160-1edd-90b1-9e7a6e95c3cc')",
+        "type": "ZGTR_AUTHENTICATION_WF_SRV.ZGTR_WF_AUTHENTICATIONType"
+    },
+    "GUID": "00505686-7160-1edd-90b1-9e7a6e95c3cc",
+    "RequesterTaxCode": "BNCMRA22P23H501Z",
+    "RequesterFirstname": "SIMMACO",
+    "RequesterLastname": "FERRIERO",
+    "RequesterMailAddress": "s.ferriero@alice.it",
+    "CreationDate": "/Date(1664630916165+0000)/",
+    "PaTaxCode": "81008080210",
+    "PaBusinessPartnerID": "",
+    "PaMailAddress": "gaetano.falzone@sap.com",
+    "PaDescription": "EBNR SPINGES",
+    "AprroverAnswer": "",
+    "ApproverTaxCode": "",
+    "ApproverChangeDate": null,
+    "GenericURL": "https://sogei-spa-regis-sviluppo-q8rh8azo-regis-sviluppo-bandired61ffaa.cfapps.eu10-004.hana.ondemand.com",
+    "SpecificURL": "https://sogei-spa-regis-sviluppo-q8rh8azo-regis-sviluppo-bandired61ffaa.cfapps.eu10-004.hana.ondemand.com/guid(00505686-7160-1EDD-90B1-9E7A6E95C3CC)"
+}

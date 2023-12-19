@@ -1,0 +1,60 @@
+{
+	"name": "piattaforma_bandi_regis",
+	"private": true,
+	"version": "1.0.7",
+	"type": "module",
+	"homepage": "./bandiregis",
+	"scripts": {
+		"dev": "concurrently \"vite\"  \"node server/server.js\"",
+		"dev:host": "concurrently \"vite --host\"  \"node server/server.js\"",
+		"build": "run-s build:react build:removeExistingResources build:mkdirForResources build:moveNewResources",
+		"build:react": "tsc && vite build",
+		"build:removeExistingResources": "shx rm -rf deployer/resources",
+		"build:mkdirForResources": "shx mkdir -p deployer/resources",
+		"build:moveNewResources": "shx mv dist/ deployer/resources/react",
+		"build:mta": "mbt build",
+		"lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
+		"preview": "vite preview",
+		"prepare": "husky install"
+	},
+	"dependencies": {
+		"@uidotdev/usehooks": "^2.4.1",
+		"axios": "^1.6.2",
+		"d3": "^7.8.5",
+		"framer-motion": "^10.16.16",
+		"react": "^18.2.0",
+		"react-dom": "^18.2.0",
+		"react-tooltip": "^5.25.0",
+		"swr": "^2.2.4",
+		"valtio": "^1.12.1"
+	},
+	"devDependencies": {
+		"@redux-devtools/extension": "^3.3.0",
+		"@tailwindcss/line-clamp": "^0.4.4",
+		"@types/d3": "^7.4.3",
+		"@types/react": "^18.2.37",
+		"@types/react-dom": "^18.2.15",
+		"@typescript-eslint/eslint-plugin": "^6.10.0",
+		"@typescript-eslint/parser": "^6.10.0",
+		"@vitejs/plugin-react-swc": "^3.5.0",
+		"autoprefixer": "^10.4.16",
+		"concurrently": "^8.2.2",
+		"eslint": "^8.53.0",
+		"eslint-plugin-react-hooks": "^4.6.0",
+		"eslint-plugin-react-refresh": "^0.4.4",
+		"husky": "^8.0.0",
+		"lint-staged": "^15.2.0",
+		"npm-run-all": "^4.1.5",
+		"postcss": "^8.4.32",
+		"prettier": "^3.1.1",
+		"prettier-plugin-tailwindcss": "^0.5.9",
+		"shx": "^0.3.4",
+		"tailwindcss": "^3.3.6",
+		"typescript": "^5.2.2",
+		"vite": "^5.0.0"
+	},
+	"lint-staged": {
+		"*.{ts,tsx}": "eslint --fix",
+		"*.{js,css,md,ts,tsx}": "prettier --write"
+	}
+}

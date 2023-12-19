@@ -1,0 +1,15 @@
+{
+  "d": {
+    "results": [
+      {
+        "__metadata": {
+          "id": "https://l2vswdlwss01.mef.gov.it:44370/sap/opu/odata/sap/ZSS4_PORTALE_ENTI_SRV/ZES_MacroTipologiaRichSet('01')",
+          "uri": "https://l2vswdlwss01.mef.gov.it:44370/sap/opu/odata/sap/ZSS4_PORTALE_ENTI_SRV/ZES_MacroTipologiaRichSet('01')",
+          "type": "ZSS4_PORTALE_ENTI_SRV.ZET_MacroTipologiaRich"
+        },
+        "MacroTipologia": "01",
+        "MacroTipologiaTxt": "Gestione utenti e Associazione Progetti"
+      }
+    ]
+  }
+}

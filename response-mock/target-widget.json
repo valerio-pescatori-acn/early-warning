@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "status": "open",
+            "name": "Project Initiation",
+            "code": "PJT-001",
+            "risk": "medium",
+            "type": "milestone"
+        },
+        {
+            "id": 2,
+            "status": "close",
+            "name": "Design Phase Completion",
+            "risk": "high",
+            "type": "target"
+        },
+        {
+            "id": 3,
+            "status": "open",
+            "risk": "low",
+            "type": "milestone"
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "d": {
+        "results": [
+            {
+                "__metadata": {
+                    "id": "https://l2vswdlwss01.mef.gov.it:44370/sap/opu/odata/sap/ZSS4_PORTALE_ENTI_SRV/ZES_UtenteRichiestaSet(IdRichUtenza='0000000060',CodFiscale='MSULSN75T04B354Z')",
+                    "uri": "https://l2vswdlwss01.mef.gov.it:44370/sap/opu/odata/sap/ZSS4_PORTALE_ENTI_SRV/ZES_UtenteRichiestaSet(IdRichUtenza='0000000060',CodFiscale='MSULSN75T04B354Z')",
+                    "type": "ZSS4_PORTALE_ENTI_SRV.ZET_UtenteRichiesta"
+                },
+                "IdRichUtenza": "0000000060",
+                "CodFiscale": "MSULSN75T04B354Z",
+                "Email": "alessandro.musio@accenture.com",
+                "Nome": "Alessandro",
+                "Cognome": "Musio",
+                "NomeCompleto": "Alessandro Musio",
+                "Piva": "80057930150",
+                "Tipologia": "01",
+                "TipologiaTxt": "Creazione",
+                "Profilo": "01",
+                "ProfiloTxt": "Soggetto Attuatore",
+                "TipologiaAppr": "01",
+                "TipologiaApprTxt": "Ufficio III",
+                "Stato": "05",
+                "StatoTxt": "Inviata",
+                "DataApprAmm": null,
+                "DataApprRGS": null,
+                "DataLavorazioneGA": null,
+                "Progetti": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "id": "https://l2vswdlwss01.mef.gov.it:44370/sap/opu/odata/sap/ZSS4_PORTALE_ENTI_SRV/ZES_ProgettoSet(IdRichUtenza='0000000060',CodFiscale='MSULSN75T04B354Z',Clp='H80D190000422111001202202',Cup='D92G19000200005')",
+                                "uri": "https://l2vswdlwss01.mef.gov.it:44370/sap/opu/odata/sap/ZSS4_PORTALE_ENTI_SRV/ZES_ProgettoSet(IdRichUtenza='0000000060',CodFiscale='MSULSN75T04B354Z',Clp='H80D190000422111001202202',Cup='D92G19000200005')",
+                                "type": "ZSS4_PORTALE_ENTI_SRV.ZET_ProgettoRichiesta"
+                            },
+                            "IdRichUtenza": "0000000060",
+                            "CodFiscale": "MSULSN75T04B354Z",
+                            "posIdProg": "10000025862022",
+                            "Clp": "H80D190000422111001202202",
+                            "Cup": "D92G19000200005"
+                        },
+                        {
+                            "__metadata": {
+                                "id": "https://l2vswdlwss01.mef.gov.it:44370/sap/opu/odata/sap/ZSS4_PORTALE_ENTI_SRV/ZES_ProgettoSet(IdRichUtenza='0000000060',CodFiscale='MSULSN75T04B354Z',Clp='H80D190000422111001202201',Cup='H76B19002930004')",
+                                "uri": "https://l2vswdlwss01.mef.gov.it:44370/sap/opu/odata/sap/ZSS4_PORTALE_ENTI_SRV/ZES_ProgettoSet(IdRichUtenza='0000000060',CodFiscale='MSULSN75T04B354Z',Clp='H80D190000422111001202201',Cup='H76B19002930004')",
+                                "type": "ZSS4_PORTALE_ENTI_SRV.ZET_ProgettoRichiesta"
+                            },
+                            "IdRichUtenza": "0000000060",
+                            "CodFiscale": "MSULSN75T04B354Z",
+                            "posIdProg": "10000026042022",
+                            "Clp": "H80D190000422111001202201",
+                            "Cup": "H76B19002930004"
+                        },
+                        {
+                            "__metadata": {
+                                "id": "https://l2vswdlwss01.mef.gov.it:44370/sap/opu/odata/sap/ZSS4_PORTALE_ENTI_SRV/ZES_ProgettoSet(IdRichUtenza='0000000061',CodFiscale='MSULSN75T04B454Z',Clp='H80D190000422111001202201',Cup='G43F20000050009')",
+                                "uri": "https://l2vswdlwss01.mef.gov.it:44370/sap/opu/odata/sap/ZSS4_PORTALE_ENTI_SRV/ZES_ProgettoSet(IdRichUtenza='0000000061',CodFiscale='MSULSN75T04B454Z',Clp='H80D190000422111001202201',Cup='G43F20000050009')",
+                                "type": "ZSS4_PORTALE_ENTI_SRV.ZET_ProgettoRichiesta"
+                            },
+                            "IdRichUtenza": "0000000061",
+                            "CodFiscale": "MSULSN75T04B454Z",
+                            "posIdProg": "10000025892022",
+                            "Clp": "H80D190000422111001202201",
+                            "Cup": "G43F20000050009"
+                        }
+                    ]
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "https://l2vswdlwss01.mef.gov.it:44370/sap/opu/odata/sap/ZSS4_PORTALE_ENTI_SRV/ZES_UtenteRichiestaSet(IdRichUtenza='0000000061',CodFiscale='MSULSN75T04B454Z')",
+                    "uri": "https://l2vswdlwss01.mef.gov.it:44370/sap/opu/odata/sap/ZSS4_PORTALE_ENTI_SRV/ZES_UtenteRichiestaSet(IdRichUtenza='0000000061',CodFiscale='MSULSN75T04B454Z')",
+                    "type": "ZSS4_PORTALE_ENTI_SRV.ZET_UtenteRichiesta"
+                },
+                "IdRichUtenza": "0000000060",
+                "CodFiscale": "MSULSN75T04B354Z",
+                "Email": "almusweb@gmail.com",
+                "Nome": "Alessandro",
+                "Cognome": "Musio",
+                "NomeCompleto": "Alessandro Musio",
+                "Piva": "80057930150",
+                "Tipologia": "01",
+                "TipologiaTxt": "Creazione",
+                "Profilo": "01",
+                "ProfiloTxt": "Soggetto Attuatore",
+                "TipologiaAppr": "01",
+                "TipologiaApprTxt": "Ufficio III",
+                "Stato": "05",
+                "StatoTxt": "Inviata",
+                "DataApprAmm": null,
+                "DataApprRGS": null,
+                "DataLavorazioneGA": null,
+                "Progetti": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "id": "https://l2vswdlwss01.mef.gov.it:44370/sap/opu/odata/sap/ZSS4_PORTALE_ENTI_SRV/ZES_ProgettoSet(IdRichUtenza='0000000061',CodFiscale='MSULSN75T04B454Z',Clp='H80D190000422111001202201',Cup='G43F20000050009')",
+                                "uri": "https://l2vswdlwss01.mef.gov.it:44370/sap/opu/odata/sap/ZSS4_PORTALE_ENTI_SRV/ZES_ProgettoSet(IdRichUtenza='0000000061',CodFiscale='MSULSN75T04B454Z',Clp='H80D190000422111001202201',Cup='G43F20000050009')",
+                                "type": "ZSS4_PORTALE_ENTI_SRV.ZET_ProgettoRichiesta"
+                            },
+                            "IdRichUtenza": "0000000061",
+                            "CodFiscale": "MSULSN75T04B454Z",
+                            "posIdProg": "10000025892022",
+                            "Clp": "H80D190000422111001202201",
+                            "Cup": "G43F20000050009"
+                        },
+                        {
+                            "__metadata": {
+                                "id": "https://l2vswdlwss01.mef.gov.it:44370/sap/opu/odata/sap/ZSS4_PORTALE_ENTI_SRV/ZES_ProgettoSet(IdRichUtenza='0000000061',CodFiscale='MSULSN75T04B454Z',Clp='H80D190000422111001202202',Cup='H83H18000290002')",
+                                "uri": "https://l2vswdlwss01.mef.gov.it:44370/sap/opu/odata/sap/ZSS4_PORTALE_ENTI_SRV/ZES_ProgettoSet(IdRichUtenza='0000000061',CodFiscale='MSULSN75T04B454Z',Clp='H80D190000422111001202202',Cup='H83H18000290002')",
+                                "type": "ZSS4_PORTALE_ENTI_SRV.ZET_ProgettoRichiesta"
+                            },
+                            "IdRichUtenza": "0000000061",
+                            "CodFiscale": "MSULSN75T04B454Z",
+                            "posIdProg": "10000026072022",
+                            "Clp": "H80D190000422111001202202",
+                            "Cup": "H83H18000290002"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

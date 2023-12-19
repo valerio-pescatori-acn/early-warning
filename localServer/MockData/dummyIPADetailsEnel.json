@@ -1,0 +1,45 @@
+{
+    "d" : {
+      "results" : [
+        {
+          "__metadata" : {
+            "id" : "http://l2vs4alass01.mef.gov.it:8001/sap/opu/odata/sap/ZSS4_ODATA_SERVIZI_PROXY_SRV_01/ZET_BPSet(Taxnum='',Taxtype='IT1')",
+            "uri" : "http://l2vs4alass01.mef.gov.it:8001/sap/opu/odata/sap/ZSS4_ODATA_SERVIZI_PROXY_SRV_01/ZET_BPSet(Taxnum='',Taxtype='IT1')",
+            "type" : "ZSS4_ODATA_SERVIZI_PROXY_SRV_01.ZET_BP"
+          },
+          "Taxnum" : "",
+          "OnSystem" : false,
+          "NameFirst" : "",
+          "NameLast" : "",
+          "Birthdt" : null,
+          "Birthpl" : "",
+          "NameOrg1" : "ENEL SPA",
+          "LegalEnty" : "10",
+          "Textlong" : "Società  per azioni",
+          "Type" : "2",
+          "ZzsoggPa" : "S",
+          "ZzcodAteco" : "70.10.00",
+          "ZzcodIpa" : "",
+          "ZzdenSogg" : "",
+          "Zzentergs" : "",
+          "City1" : "ROMA",
+          "Country" : "IT",
+          "Street" : "",
+          "PostCode1" : "",
+          "Region" : "RM",
+          "Taxtype" : "IT1",
+          "Taxnumber" : "00811720580",
+          "Rtlyp" : "CRM000",
+          "Zzfonte" : "ANAGRAFE TRIBUTARIA",
+          "Partner" : "",
+          "FlagCessato" : false,
+          "PartnerGuid" : "00000000-0000-0000-0000-000000000000",
+          "Zzrappresentante" : "STARACE                                 FRANCESCO",
+          "Zzdata" : null,
+          "Zzluogo" : "ROMA",
+          "ZzcfRappresentante" : "STRFNC55P22H501K",
+          "Pec" : "almuspec@gov.it carofiglio@gov.it     carofiglio@gov.it"
+        }
+      ]
+    }
+  }

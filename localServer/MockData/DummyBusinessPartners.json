@@ -1,0 +1,126 @@
+{
+    "d": {
+        "results": [
+            {
+                "__metadata": {
+                    "id": "https://l2vswdlwss01.mef.gov.it:44370/sap/opu/odata/sap/ZGTR_AUTHENTICATION_BP_CDS/ZGTR_AUTHENTICATION_BPSet(p_taxnum='BNCMRA22P23H501Z',UserFiscalCode='BNCMRA22P23H501Z')",
+                    "uri": "https://l2vswdlwss01.mef.gov.it:44370/sap/opu/odata/sap/ZGTR_AUTHENTICATION_BP_CDS/ZGTR_AUTHENTICATION_BPSet(p_taxnum='BNCMRA22P23H501Z',UserFiscalCode='BNCMRA22P23H501Z')",
+                    "type": "ZGTR_AUTHENTICATION_BP_CDS.ZGTR_AUTHENTICATION_BPType"
+                },
+                "p_taxnum": "BNCMRA22P23H501Z",
+                "UserFiscalCode": "BNCMRA22P23H501Z",
+                "BusinessPartnerID": "0050000650",
+                "IsMaster": false,
+                "ActivationProfile": "B",
+                "ToggleFirstAccess": false,
+                "CoWorkerMailAddress": "mario.bianchi@mail.com",
+                "CoWorkerFirstname": "Mario",
+                "CoWorkerLastname": "Bianchi",
+                "BusinessPartnerDescription": "ACCENTURE S.P.A.",
+                "BusinessPartnerTaxType": "IT1",
+                "BusinessPartnerFiscalCode": "13454210157",
+                "Parameters": {
+                    "__deferred": {
+                        "uri": "https://l2vswdlwss01.mef.gov.it:44370/sap/opu/odata/sap/ZGTR_AUTHENTICATION_BP_CDS/ZGTR_AUTHENTICATION_BPSet(p_taxnum='BNCMRA22P23H501Z',UserFiscalCode='BNCMRA22P23H501Z')/Parameters"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "https://l2vswdlwss01.mef.gov.it:44370/sap/opu/odata/sap/ZGTR_AUTHENTICATION_BP_CDS/ZGTR_AUTHENTICATION_BPSet(p_taxnum='BNCMRA22P23H501Z',UserFiscalCode='BNCMRA22P23H501Z')",
+                    "uri": "https://l2vswdlwss01.mef.gov.it:44370/sap/opu/odata/sap/ZGTR_AUTHENTICATION_BP_CDS/ZGTR_AUTHENTICATION_BPSet(p_taxnum='BNCMRA22P23H501Z',UserFiscalCode='BNCMRA22P23H501Z')",
+                    "type": "ZGTR_AUTHENTICATION_BP_CDS.ZGTR_AUTHENTICATION_BPType"
+                },
+                "p_taxnum": "BNCMRA22P23H501Z",
+                "UserFiscalCode": "BNCMRA22P23H501Z",
+                "BusinessPartnerID": "0050001194",
+                "IsMaster": false,
+                "ActivationProfile": "B",
+                "ToggleFirstAccess": false,
+                "CoWorkerMailAddress": "mario.bianchi@mail.com",
+                "CoWorkerFirstname": "Mario",
+                "CoWorkerLastname": "Bianchi",
+                "BusinessPartnerDescription": "COMUNE DI CODROIPO",
+                "BusinessPartnerTaxType": "IT1",
+                "BusinessPartnerFiscalCode": "80006530309",
+                "Parameters": {
+                    "__deferred": {
+                        "uri": "https://l2vswdlwss01.mef.gov.it:44370/sap/opu/odata/sap/ZGTR_AUTHENTICATION_BP_CDS/ZGTR_AUTHENTICATION_BPSet(p_taxnum='BNCMRA22P23H501Z',UserFiscalCode='BNCMRA22P23H501Z')/Parameters"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "https://l2vswdlwss01.mef.gov.it:44370/sap/opu/odata/sap/ZGTR_AUTHENTICATION_BP_CDS/ZGTR_AUTHENTICATION_BPSet(p_taxnum='BNCMRA22P23H501Z',UserFiscalCode='BNCMRA22P23H501Z')",
+                    "uri": "https://l2vswdlwss01.mef.gov.it:44370/sap/opu/odata/sap/ZGTR_AUTHENTICATION_BP_CDS/ZGTR_AUTHENTICATION_BPSet(p_taxnum='BNCMRA22P23H501Z',UserFiscalCode='BNCMRA22P23H501Z')",
+                    "type": "ZGTR_AUTHENTICATION_BP_CDS.ZGTR_AUTHENTICATION_BPType"
+                },
+                "p_taxnum": "BNCMRA22P23H501Z",
+                "UserFiscalCode": "BNCMRA22P23H501Z",
+                "BusinessPartnerID": "0050000033",
+                "IsMaster": false,
+                "ActivationProfile": "B",
+                "ToggleFirstAccess": false,
+                "CoWorkerMailAddress": "mario.bianchi@mail.com",
+                "CoWorkerFirstname": "Mario",
+                "CoWorkerLastname": "Bianchi",
+                "BusinessPartnerDescription": "COMUNE DI SAN BONIFACIO",
+                "BusinessPartnerTaxType": "IT1",
+                "BusinessPartnerFiscalCode": "00220240238",
+                "Parameters": {
+                    "__deferred": {
+                        "uri": "https://l2vswdlwss01.mef.gov.it:44370/sap/opu/odata/sap/ZGTR_AUTHENTICATION_BP_CDS/ZGTR_AUTHENTICATION_BPSet(p_taxnum='BNCMRA22P23H501Z',UserFiscalCode='BNCMRA22P23H501Z')/Parameters"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "https://l2vswdlwss01.mef.gov.it:44370/sap/opu/odata/sap/ZGTR_AUTHENTICATION_BP_CDS/ZGTR_AUTHENTICATION_BPSet(p_taxnum='BNCMRA22P23H501Z',UserFiscalCode='BNCMRA22P23H501Z')",
+                    "uri": "https://l2vswdlwss01.mef.gov.it:44370/sap/opu/odata/sap/ZGTR_AUTHENTICATION_BP_CDS/ZGTR_AUTHENTICATION_BPSet(p_taxnum='BNCMRA22P23H501Z',UserFiscalCode='BNCMRA22P23H501Z')",
+                    "type": "ZGTR_AUTHENTICATION_BP_CDS.ZGTR_AUTHENTICATION_BPType"
+                },
+                "p_taxnum": "BNCMRA22P23H501Z",
+                "UserFiscalCode": "BNCMRA22P23H501Z",
+                "BusinessPartnerID": "0050001007",
+                "IsMaster": true,
+                "ActivationProfile": "B",
+                "ToggleFirstAccess": true,
+                "CoWorkerMailAddress": "",
+                "CoWorkerFirstname": "Mario",
+                "CoWorkerLastname": "Bianchi",
+                "BusinessPartnerDescription": "EBNR SPINGES",
+                "BusinessPartnerTaxType": "IT1",
+                "BusinessPartnerFiscalCode": "81008080210",
+                "Parameters": {
+                    "__deferred": {
+                        "uri": "https://l2vswdlwss01.mef.gov.it:44370/sap/opu/odata/sap/ZGTR_AUTHENTICATION_BP_CDS/ZGTR_AUTHENTICATION_BPSet(p_taxnum='BNCMRA22P23H501Z',UserFiscalCode='BNCMRA22P23H501Z')/Parameters"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "https://l2vswdlwss01.mef.gov.it:44370/sap/opu/odata/sap/ZGTR_AUTHENTICATION_BP_CDS/ZGTR_AUTHENTICATION_BPSet(p_taxnum='BNCMRA22P23H501Z',UserFiscalCode='BNCMRA22P23H501Z')",
+                    "uri": "https://l2vswdlwss01.mef.gov.it:44370/sap/opu/odata/sap/ZGTR_AUTHENTICATION_BP_CDS/ZGTR_AUTHENTICATION_BPSet(p_taxnum='BNCMRA22P23H501Z',UserFiscalCode='BNCMRA22P23H501Z')",
+                    "type": "ZGTR_AUTHENTICATION_BP_CDS.ZGTR_AUTHENTICATION_BPType"
+                },
+                "p_taxnum": "BNCMRA22P23H501Z",
+                "UserFiscalCode": "BNCMRA22P23H501Z",
+                "BusinessPartnerID": "0050001195",
+                "IsMaster": true,
+                "ActivationProfile": "B",
+                "ToggleFirstAccess": false,
+                "CoWorkerMailAddress": "",
+                "CoWorkerFirstname": "",
+                "CoWorkerLastname": "",
+                "BusinessPartnerDescription": "S.A.P. ITALIA SISTEMI APPLICAZIONI PRODO",
+                "BusinessPartnerTaxType": "IT1",
+                "BusinessPartnerFiscalCode": "09417760155",
+                "Parameters": {
+                    "__deferred": {
+                        "uri": "https://l2vswdlwss01.mef.gov.it:44370/sap/opu/odata/sap/ZGTR_AUTHENTICATION_BP_CDS/ZGTR_AUTHENTICATION_BPSet(p_taxnum='BNCMRA22P23H501Z',UserFiscalCode='BNCMRA22P23H501Z')/Parameters"
+                    }
+                }
+            }
+        ]
+    }
+}

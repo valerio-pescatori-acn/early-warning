@@ -1,0 +1,25 @@
+{
+    "welcomeFile": "index.html",
+    "authenticationMethod": "route",
+    "routes": [{
+            "source": "^/S4_REGIS/sap/(.*)$",
+            "target": "/sap/$1",
+            "destination": "S4_REGIS",
+            "authenticationType": "xsuaa",
+            "csrfProtection": false
+        }, {
+            "source": "^/GT_REGIS/sap/(.*)$",
+            "target": "/sap/$1",
+            "destination": "GT_REGIS",
+            "authenticationType": "xsuaa",
+            "csrfProtection": false
+        },
+        {
+            "source": "^(.*)",
+            "target": "$1",
+            "authenticationType": "xsuaa",
+            "service": "html5-apps-repo-rt",
+            "cacheControl":"no-cache"
+        }
+    ]
+}

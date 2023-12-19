@@ -1,0 +1,55 @@
+{
+    "data": [
+        {
+            "id": 101,
+            "name": "Urban Development Initiative",
+            "administrationCode": "UDI-2023",
+            "administrationName": "City Planning Department",
+            "status": "active",
+            "risk": "medium",
+            "milestonesTarget": [
+                {
+                    "id": 1,
+                    "status": "open",
+                    "name": "Preliminary Survey",
+                    "code": "SUR-001",
+                    "risk": "low",
+                    "type": "milestone",
+                    "trustIndex": 85
+                },
+                {
+                    "id": 2,
+                    "status": "close",
+                    "risk": "high",
+                    "type": "target",
+                    "trustIndex": 70
+                }
+            ]
+        },
+        {
+            "id": 102,
+            "name": "Renewable Energy Project",
+            "administrationCode": "REP-2023",
+            "administrationName": "Energy Department",
+            "status": "planning",
+            "risk": "high",
+            "milestonesTarget": [
+                {
+                    "id": 3,
+                    "status": "open",
+                    "name": "Site Approval",
+                    "code": "SAP-002",
+                    "risk": "medium",
+                    "type": "milestone"
+                },
+                {
+                    "id": 4,
+                    "status": "open",
+                    "risk": "low",
+                    "type": "target",
+                    "trustIndex": 90
+                }
+            ]
+        }
+    ]
+}

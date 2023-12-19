@@ -1,0 +1,321 @@
+{
+    "d": {
+        "results": [{
+                "__metadata": {
+                    "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_PROG_FOR_BP_CDS/ZCRM_PROG_FOR_BPSet(P_BUSINESS_PARTNER='0050000033',ProgramID='1000001226')",
+                    "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_PROG_FOR_BP_CDS/ZCRM_PROG_FOR_BPSet(P_BUSINESS_PARTNER='0050000033',ProgramID='1000001226')",
+                    "type": "ZCRM_PROG_FOR_BP_CDS.ZCRM_PROG_FOR_BPType"
+                },
+                "P_BUSINESS_PARTNER": "0050000033",
+                "SubOperation": "M1C1I1.4.6",
+                "SubOperationDescription": "Mobility as a service for Italy",
+                "ManageCUP": "01",
+                "PublicationDate": "/Date(1640649600000)/",
+                "StartDate": "20211228000000",
+                "EndDate": "20230310000000",
+                "SubmissionPeriodType": "3",
+                "SubmissionStartDate": "20220125230000",
+                "SubmissionEndDate": "20221109230000",
+                "Priority": "20",
+                "IDPartner": "0050000033",
+                "Closed": "",
+                "WorkingCount": 0,
+                "SubmittedCount": 0,
+                "ProgramID": "1000001226",
+                "ProgramGUID": "10000012-2600-0000-0000-000000000000",
+                "description": "Realizzazione e ammodernamento infrastr.",
+                "isApplicable": "X",
+                "Administration": "V316",
+                "AdministrationDescription": "Ministero Innovazione Tecnolog",
+                "Mission": "M1",
+                "Component": "C1",
+                "to_rules": {
+                    "results": [{
+                        "__metadata": {
+                            "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_PROG_FOR_BP_CDS/ZCRM_I_GPM_RULES(ProcedureGUID=guid'10000012-2600-0000-0000-000000000000',ProcedureRuleDescription='Comuni')",
+                            "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_PROG_FOR_BP_CDS/ZCRM_I_GPM_RULES(ProcedureGUID=guid'10000012-2600-0000-0000-000000000000',ProcedureRuleDescription='Comuni')",
+                            "type": "ZCRM_PROG_FOR_BP_CDS.ZCRM_I_GPM_RULESType"
+                        },
+                        "ProcedureGUID": "10000012-2600-0000-0000-000000000000",
+                        "ProcedureRuleDescription": "Comuni"
+                    }]
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_PROG_FOR_BP_CDS/ZCRM_PROG_FOR_BPSet(P_BUSINESS_PARTNER='0050000033',ProgramID='2000001036')",
+                    "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_PROG_FOR_BP_CDS/ZCRM_PROG_FOR_BPSet(P_BUSINESS_PARTNER='0050000033',ProgramID='2000001036')",
+                    "type": "ZCRM_PROG_FOR_BP_CDS.ZCRM_PROG_FOR_BPType"
+                },
+                "P_BUSINESS_PARTNER": "0050000033",
+                "SubOperation": "M1C1I1.4.6",
+                "SubOperationDescription": "Mobility as a service for Italy",
+                "ManageCUP": "02",
+                "PublicationDate": "/Date(1643673600000)/",
+                "StartDate": "20220601000000",
+                "EndDate": "20220630000000",
+                "SubmissionPeriodType": "3",
+                "SubmissionStartDate": "20220531220000",
+                "SubmissionEndDate": "20221230230000",
+                "Priority": "20",
+                "IDPartner": "0050000033",
+                "Closed": "",
+                "WorkingCount": 0,
+                "SubmittedCount": 0,
+                "ProgramID": "2000001036",
+                "ProgramGUID": "20000010-3600-0000-0000-000000000000",
+                "description": "Bando di prova 2000001036 - Boccaccio",
+                "isApplicable": "X",
+                "Administration": "V316",
+                "AdministrationDescription": "Ministero Innovazione Tecnolog",
+                "Mission": "M1",
+                "Component": "C1",
+                "to_rules": {
+                    "results": [{
+                            "__metadata": {
+                                "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_PROG_FOR_BP_CDS/ZCRM_I_GPM_RULES(ProcedureGUID=guid'20000010-3600-0000-0000-000000000000',ProcedureRuleDescription='Pubbliche%20amministrazioni')",
+                                "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_PROG_FOR_BP_CDS/ZCRM_I_GPM_RULES(ProcedureGUID=guid'20000010-3600-0000-0000-000000000000',ProcedureRuleDescription='Pubbliche%20amministrazioni')",
+                                "type": "ZCRM_PROG_FOR_BP_CDS.ZCRM_I_GPM_RULESType"
+                            },
+                            "ProcedureGUID": "20000010-3600-0000-0000-000000000000",
+                            "ProcedureRuleDescription": "Pubbliche amministrazioni"
+                        },
+                        {
+                            "__metadata": {
+                                "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_PROG_FOR_BP_CDS/ZCRM_I_GPM_RULES(ProcedureGUID=guid'20000010-3600-0000-0000-000000000000',ProcedureRuleDescription='Impresa')",
+                                "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_PROG_FOR_BP_CDS/ZCRM_I_GPM_RULES(ProcedureGUID=guid'20000010-3600-0000-0000-000000000000',ProcedureRuleDescription='Impresa')",
+                                "type": "ZCRM_PROG_FOR_BP_CDS.ZCRM_I_GPM_RULESType"
+                            },
+                            "ProcedureGUID": "20000010-3600-0000-0000-000000000000",
+                            "ProcedureRuleDescription": "Impresa"
+                        },
+                        {
+                            "__metadata": {
+                                "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_PROG_FOR_BP_CDS/ZCRM_I_GPM_RULES(ProcedureGUID=guid'20000010-3600-0000-0000-000000000000',ProcedureRuleDescription='Comuni%20e%20unione%20di%20Comunii')",
+                                "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_PROG_FOR_BP_CDS/ZCRM_I_GPM_RULES(ProcedureGUID=guid'20000010-3600-0000-0000-000000000000',ProcedureRuleDescription='Comuni%20e%20unione%20di%20Comunii')",
+                                "type": "ZCRM_PROG_FOR_BP_CDS.ZCRM_I_GPM_RULESType"
+                            },
+                            "ProcedureGUID": "20000010-3600-0000-0000-000000000000",
+                            "ProcedureRuleDescription": "Comuni e unione di Comunii"
+                        }
+                    ]
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_PROG_FOR_BP_CDS/ZCRM_PROG_FOR_BPSet(P_BUSINESS_PARTNER='0050000033',ProgramID='3000000001')",
+                    "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_PROG_FOR_BP_CDS/ZCRM_PROG_FOR_BPSet(P_BUSINESS_PARTNER='0050000033',ProgramID='3000000001')",
+                    "type": "ZCRM_PROG_FOR_BP_CDS.ZCRM_PROG_FOR_BPType"
+                },
+                "P_BUSINESS_PARTNER": "0050000033",
+                "SubOperation": "M1C1I1.1",
+                "SubOperationDescription": "",
+                "ManageCUP": "02",
+                "PublicationDate": "/Date(1646092800000)/",
+                "StartDate": "20220331220000",
+                "EndDate": "99991230230000",
+                "SubmissionPeriodType": "1",
+                "SubmissionStartDate": "20220331220000",
+                "SubmissionEndDate": "99991230230000",
+                "Priority": "20",
+                "IDPartner": "0050000033",
+                "Closed": "",
+                "WorkingCount": 0,
+                "SubmittedCount": 0,
+                "ProgramID": "3000000001",
+                "ProgramGUID": "30000000-0100-0000-0000-000000000000",
+                "description": "Bando di prova 3000000001 - Petrarca",
+                "isApplicable": "X",
+                "Administration": "V316",
+                "AdministrationDescription": "Ministero Innovazione Tecnolog",
+                "Mission": "M1",
+                "Component": "C1",
+                "to_rules": {
+                    "results": [{
+                            "__metadata": {
+                                "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_PROG_FOR_BP_CDS/ZCRM_I_GPM_RULES(ProcedureGUID=guid'30000000-0100-0000-0000-000000000000',ProcedureRuleDescription='Aziende%20private')",
+                                "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_PROG_FOR_BP_CDS/ZCRM_I_GPM_RULES(ProcedureGUID=guid'30000000-0100-0000-0000-000000000000',ProcedureRuleDescription='Aziende%20private')",
+                                "type": "ZCRM_PROG_FOR_BP_CDS.ZCRM_I_GPM_RULESType"
+                            },
+                            "ProcedureGUID": "30000000-0100-0000-0000-000000000000",
+                            "ProcedureRuleDescription": "Aziende private"
+                        },
+                        {
+                            "__metadata": {
+                                "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_PROG_FOR_BP_CDS/ZCRM_I_GPM_RULES(ProcedureGUID=guid'30000000-0100-0000-0000-000000000000',ProcedureRuleDescription='Aziende%20pubblliche')",
+                                "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_PROG_FOR_BP_CDS/ZCRM_I_GPM_RULES(ProcedureGUID=guid'30000000-0100-0000-0000-000000000000',ProcedureRuleDescription='Aziende%20pubblliche')",
+                                "type": "ZCRM_PROG_FOR_BP_CDS.ZCRM_I_GPM_RULESType"
+                            },
+                            "ProcedureGUID": "30000000-0100-0000-0000-000000000000",
+                            "ProcedureRuleDescription": "Aziende pubblliche"
+                        }
+                    ]
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_PROG_FOR_BP_CDS/ZCRM_PROG_FOR_BPSet(P_BUSINESS_PARTNER='0050000033',ProgramID='1000001161')",
+                    "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_PROG_FOR_BP_CDS/ZCRM_PROG_FOR_BPSet(P_BUSINESS_PARTNER='0050000033',ProgramID='1000001161')",
+                    "type": "ZCRM_PROG_FOR_BP_CDS.ZCRM_PROG_FOR_BPType"
+                },
+                "P_BUSINESS_PARTNER": "0050000033",
+                "SubOperation": "M1C1I1.4.6",
+                "SubOperationDescription": "Mobility as a service for Italy",
+                "ManageCUP": "00",
+                "PublicationDate": "/Date(1652832000000)/",
+                "StartDate": "20220901000000",
+                "EndDate": "20221231000000",
+                "SubmissionPeriodType": "1",
+                "SubmissionStartDate": "20220901000000",
+                "SubmissionEndDate": "20221231000000",
+                "Priority": "20",
+                "IDPartner": "0050000033",
+                "Closed": "",
+                "WorkingCount": 0,
+                "SubmittedCount": 0,
+                "ProgramID": "1000001161",
+                "ProgramGUID": "10000011-6100-0000-0000-000000000000",
+                "description": "Bando di prova 10000004161",
+                "isApplicable": "X",
+                "Administration": "V316",
+                "AdministrationDescription": "Ministero Innovazione Tecnolog",
+                "Mission": "M1",
+                "Component": "C1",
+                "to_rules": {
+                    "results": [{
+                        "__metadata": {
+                            "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_PROG_FOR_BP_CDS/ZCRM_I_GPM_RULES(ProcedureGUID=guid'10000011-6100-0000-0000-000000000000',ProcedureRuleDescription='Organizzazioni%20pubbliche')",
+                            "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_PROG_FOR_BP_CDS/ZCRM_I_GPM_RULES(ProcedureGUID=guid'10000011-6100-0000-0000-000000000000',ProcedureRuleDescription='Organizzazioni%20pubbliche')",
+                            "type": "ZCRM_PROG_FOR_BP_CDS.ZCRM_I_GPM_RULESType"
+                        },
+                        "ProcedureGUID": "10000011-6100-0000-0000-000000000000",
+                        "ProcedureRuleDescription": "Organizzazioni pubbliche"
+                    }]
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_PROG_FOR_BP_CDS/ZCRM_PROG_FOR_BPSet(P_BUSINESS_PARTNER='0050000033',ProgramID='1000001162')",
+                    "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_PROG_FOR_BP_CDS/ZCRM_PROG_FOR_BPSet(P_BUSINESS_PARTNER='0050000033',ProgramID='1000001162')",
+                    "type": "ZCRM_PROG_FOR_BP_CDS.ZCRM_PROG_FOR_BPType"
+                },
+                "P_BUSINESS_PARTNER": "0050000033",
+                "SubOperation": "M1C1I1.4.6",
+                "SubOperationDescription": "Mobility as a service for Italy",
+                "ManageCUP": "00",
+                "PublicationDate": "/Date(1637625600000)/",
+                "StartDate": "20220901000000",
+                "EndDate": "20221231000000",
+                "SubmissionPeriodType": "3",
+                "SubmissionStartDate": "20220831220000",
+                "SubmissionEndDate": "20220929220000",
+                "Priority": "10",
+                "IDPartner": "0050000033",
+                "Closed": "X",
+                "WorkingCount": 0,
+                "SubmittedCount": 0,
+                "ProgramID": "1000001162",
+                "ProgramGUID": "10000011-6200-0000-0000-000000000000",
+                "description": "Bando di prova 1000001162",
+                "isApplicable": "X",
+                "Administration": "V316",
+                "AdministrationDescription": "Ministero Innovazione Tecnolog",
+                "Mission": "M1",
+                "Component": "C1",
+                "to_rules": {
+                    "results": [{
+                        "__metadata": {
+                            "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_PROG_FOR_BP_CDS/ZCRM_I_GPM_RULES(ProcedureGUID=guid'10000011-6200-0000-0000-000000000000',ProcedureRuleDescription='Soggetti%20pubblici')",
+                            "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_PROG_FOR_BP_CDS/ZCRM_I_GPM_RULES(ProcedureGUID=guid'10000011-6200-0000-0000-000000000000',ProcedureRuleDescription='Soggetti%20pubblici')",
+                            "type": "ZCRM_PROG_FOR_BP_CDS.ZCRM_I_GPM_RULESType"
+                        },
+                        "ProcedureGUID": "10000011-6200-0000-0000-000000000000",
+                        "ProcedureRuleDescription": "Soggetti pubblici"
+                    }]
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_PROG_FOR_BP_CDS/ZCRM_PROG_FOR_BPSet(P_BUSINESS_PARTNER='0050000033',ProgramID='1000001198')",
+                    "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_PROG_FOR_BP_CDS/ZCRM_PROG_FOR_BPSet(P_BUSINESS_PARTNER='0050000033',ProgramID='1000001198')",
+                    "type": "ZCRM_PROG_FOR_BP_CDS.ZCRM_PROG_FOR_BPType"
+                },
+                "P_BUSINESS_PARTNER": "0050000033",
+                "SubOperation": "M1C1I1.4.6",
+                "SubOperationDescription": "Mobility as a service for Italy",
+                "ManageCUP": "01",
+                "PublicationDate": "/Date(1661990400000)/",
+                "StartDate": "20220101000000",
+                "EndDate": "20230131000000",
+                "SubmissionPeriodType": "1",
+                "SubmissionStartDate": "20220101000000",
+                "SubmissionEndDate": "20230131000000",
+                "Priority": "20",
+                "IDPartner": "0050000033",
+                "Closed": "",
+                "WorkingCount": 0,
+                "SubmittedCount": 0,
+                "ProgramID": "1000001198",
+                "ProgramGUID": "10000011-9800-0000-0000-000000000000",
+                "description": "Bando di prova 1000001198 - Manzoni",
+                "isApplicable": "X",
+                "Administration": "V316",
+                "AdministrationDescription": "Ministero Innovazione Tecnolog",
+                "Mission": "M1",
+                "Component": "C1",
+                "to_rules": {
+                    "results": [{
+                        "__metadata": {
+                            "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_PROG_FOR_BP_CDS/ZCRM_I_GPM_RULES(ProcedureGUID=guid'10000011-9800-0000-0000-000000000000',ProcedureRuleDescription='Pubblica%20amministrazione')",
+                            "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_PROG_FOR_BP_CDS/ZCRM_I_GPM_RULES(ProcedureGUID=guid'10000011-9800-0000-0000-000000000000',ProcedureRuleDescription='Pubblica%20amministrazione')",
+                            "type": "ZCRM_PROG_FOR_BP_CDS.ZCRM_I_GPM_RULESType"
+                        },
+                        "ProcedureGUID": "10000011-9800-0000-0000-000000000000",
+                        "ProcedureRuleDescription": "Pubblica amministrazione"
+                    }]
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_PROG_FOR_BP_CDS/ZCRM_PROG_FOR_BPSet(P_BUSINESS_PARTNER='0050000033',ProgramID='2000001205')",
+                    "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_PROG_FOR_BP_CDS/ZCRM_PROG_FOR_BPSet(P_BUSINESS_PARTNER='0050000033',ProgramID='2000001205')",
+                    "type": "ZCRM_PROG_FOR_BP_CDS.ZCRM_PROG_FOR_BPType"
+                },
+                "P_BUSINESS_PARTNER": "0050000033",
+                "SubOperation": "M1C1I1.4.6",
+                "SubOperationDescription": "Mobility as a service for Italy",
+                "ManageCUP": "02",
+                "PublicationDate": "/Date(1643673600000)/",
+                "StartDate": "20220601000000",
+                "EndDate": "20230630000000",
+                "SubmissionPeriodType": "3",
+                "SubmissionStartDate": "20220531220000",
+                "SubmissionEndDate": "20221230230000",
+                "Priority": "20",
+                "IDPartner": "0050000033",
+                "Closed": "",
+                "WorkingCount": 0,
+                "SubmittedCount": 0,
+                "ProgramID": "2000001205",
+                "ProgramGUID": "20000012-0500-0000-0000-000000000000",
+                "description": "Bando di prova 2000001205 - Dante",
+                "isApplicable": "X",
+                "Administration": "V316",
+                "AdministrationDescription": "Ministero Innovazione Tecnolog",
+                "Mission": "M1",
+                "Component": "C1",
+                "to_rules": {
+                    "results": [{
+                        "__metadata": {
+                            "id": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_PROG_FOR_BP_CDS/ZCRM_I_GPM_RULES(ProcedureGUID=guid'20000012-0500-0000-0000-000000000000',ProcedureRuleDescription='Pubblica%20amministrazione')",
+                            "uri": "http://sapcrmsvil.mef.gov.it:44370/sap/opu/odata/sap/ZCRM_PROG_FOR_BP_CDS/ZCRM_I_GPM_RULES(ProcedureGUID=guid'20000012-0500-0000-0000-000000000000',ProcedureRuleDescription='Pubblica%20amministrazione')",
+                            "type": "ZCRM_PROG_FOR_BP_CDS.ZCRM_I_GPM_RULESType"
+                        },
+                        "ProcedureGUID": "20000012-0500-0000-0000-000000000000",
+                        "ProcedureRuleDescription": "Pubblica amministrazione"
+                    }]
+                }
+            }
+        ]
+    }
+}
