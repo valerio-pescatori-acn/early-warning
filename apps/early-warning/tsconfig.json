@@ -5,13 +5,15 @@
 		"lib": ["ES2020", "DOM", "DOM.Iterable"],
 		"module": "ESNext",
 		"skipLibCheck": true,
+
 		/* Bundler mode */
-		"moduleResolution": "node",
+		"moduleResolution": "bundler",
 		"allowImportingTsExtensions": true,
-		"allowSyntheticDefaultImports": true,
+		"resolveJsonModule": true,
 		"isolatedModules": true,
 		"noEmit": true,
 		"jsx": "react-jsx",
+
 		/* Linting */
 		"strict": true,
 		"noUnusedLocals": true,
@@ -19,9 +21,5 @@
 		"noFallthroughCasesInSwitch": true
 	},
 	"include": ["src"],
-	"references": [
-		{
-			"path": "./tsconfig.node.json"
-		}
-	]
+	"references": [{ "path": "./tsconfig.node.json" }]
 }
