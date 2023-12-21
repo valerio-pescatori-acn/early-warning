@@ -1,0 +1,82 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+	font-family: "72";
+	src: url("/src/assets/fonts/72-Black-full.woff2");
+	font-weight: 900;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "72";
+	src: url("/src/assets/fonts/72-Bold-full.woff2");
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "72";
+	src: url("/src/assets/fonts/72-Light-full.woff2");
+	font-weight: 300;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "72";
+	src: url("/src/assets/fonts/72-Regular-full.woff2");
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "72";
+	src: url("/src/assets/fonts/72-Semibold-full.woff2");
+	font-weight: 600;
+	font-style: normal;
+}
+
+:root {
+	--base-black: 0, 0, 0;
+	--base-white: 255, 255, 255;
+	--primary: 0, 102, 204;
+	--primary-1: 0, 99, 149;
+	--primary-2: 10, 110, 209;
+	--primary-3: 249, 249, 249;
+	--primary-5: 212, 214, 215;
+	--primary-6: 50, 54, 58;
+	--primary-7: 106, 109, 112;
+	--blue-light: 209, 232, 255;
+	--blue-lighter: 235, 245, 254;
+	--blue-dark: 9, 94, 178;
+	--red-bar: 229, 6, 6;
+	--yellow-bar: 255, 193, 96;
+	--green-bar: 10, 209, 173;
+	--error: 187, 0, 0;
+	--alert: 255, 136, 136;
+	--warning: 248, 182, 125;
+	--success: 172, 225, 194;
+	--slate-44: 92, 111, 130;
+
+	--rt-color-white: rgb(var(--base-white)) !important;
+	--rt-color-dark: rgb(var(--primary-6)) !important;
+	--rt-opacity: 1 !important;
+}
+
+.react-tooltip {
+	@apply z-20 w-72 rounded bg-primary-6 p-4 text-base-white;
+}
+
+.react-tooltip-arrow {
+	width: 0 !important;
+	height: 0 !important;
+	background: none !important;
+	border-left: 8px solid transparent !important;
+	border-right: 8px solid transparent !important;
+	border-bottom: 8px solid rgb(var(--primary-6)) !important;
+}
+
+a {
+	@apply inline-block text-sm text-primary-2 hover:underline;
+}
