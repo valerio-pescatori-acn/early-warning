@@ -2,7 +2,8 @@
   "private": true,
   "scripts": {
     "dev": "turbo dev",
-    "build": "turbo build"
+    "build": "turbo build",
+    "prepare": "husky install"
   },
   "devDependencies": {
     "turbo": "latest",
@@ -11,7 +12,12 @@
     "eslint": "^8.53.0",
     "prettier": "^3.1.1",
     "prettier-plugin-tailwindcss": "^0.5.9",
+    "typescript": "^5.2.2",
     "@ew/typescript-config": "workspace:*"
+  },
+  "lint-staged": {
+    "*.{ts,tsx}": "eslint --fix",
+    "*.{js,css,md,ts,tsx}": "prettier --write"
   },
   "packageManager": "pnpm@8.9.0"
 }

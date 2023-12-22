@@ -14,8 +14,7 @@
 		"build:moveNewResources": "shx mv dist/ deployer/resources/react",
 		"build:mta": "mbt build",
 		"lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
-		"preview": "vite preview",
-		"prepare": "husky install"
+		"preview": "vite preview"
 	},
 	"dependencies": {
 		"@uidotdev/usehooks": "^2.4.1",
@@ -30,24 +29,15 @@
 	},
 	"devDependencies": {
 		"@ew/typescript-config": "workspace:*",
+		"@ew/eslint-config": "workspace:*",
 		"@redux-devtools/extension": "^3.3.0",
 		"@tailwindcss/line-clamp": "^0.4.4",
 		"@types/d3": "^7.4.3",
 		"@types/react": "^18.2.37",
 		"@types/react-dom": "^18.2.15",
-		"@typescript-eslint/eslint-plugin": "^6.10.0",
-		"@typescript-eslint/parser": "^6.10.0",
 		"@vitejs/plugin-react-swc": "^3.5.0",
 		"autoprefixer": "^10.4.16",
-		"eslint-plugin-react-hooks": "^4.6.0",
-		"eslint-plugin-react-refresh": "^0.4.4",
 		"postcss": "^8.4.32",
-		"shx": "^0.3.4",
-		"typescript": "^5.2.2",
 		"vite": "^5.0.0"
-	},
-	"lint-staged": {
-		"*.{ts,tsx}": "eslint --fix",
-		"*.{js,css,md,ts,tsx}": "prettier --write"
 	}
 }
