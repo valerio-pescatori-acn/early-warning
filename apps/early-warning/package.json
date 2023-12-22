@@ -1,12 +1,12 @@
 {
-	"name": "piattaforma_bandi_regis",
+	"name": "early-warning",
 	"private": true,
 	"version": "1.0.7",
 	"type": "module",
 	"homepage": "./bandiregis",
 	"scripts": {
-		"dev": "concurrently \"vite\"  \"node server/server.js\"",
-		"dev:host": "concurrently \"vite --host\"  \"node server/server.js\"",
+		"dev": "vite",
+		"dev:host": "vite --host",
 		"build": "run-s build:react build:removeExistingResources build:mkdirForResources build:moveNewResources",
 		"build:react": "tsc && vite build",
 		"build:removeExistingResources": "shx rm -rf deployer/resources",
@@ -28,16 +28,18 @@
 		"valtio": "^1.12.1"
 	},
 	"devDependencies": {
-		"@ew/typescript-config": "workspace:*",
 		"@ew/eslint-config": "workspace:*",
+		"@ew/tailwind-config": "workspace:*",
+		"@ew/typescript-config": "workspace:*",
 		"@redux-devtools/extension": "^3.3.0",
-		"@tailwindcss/line-clamp": "^0.4.4",
 		"@types/d3": "^7.4.3",
 		"@types/react": "^18.2.37",
 		"@types/react-dom": "^18.2.15",
 		"@vitejs/plugin-react-swc": "^3.5.0",
 		"autoprefixer": "^10.4.16",
 		"postcss": "^8.4.32",
+		"postcss-import": "^15.1.0",
+		"tailwindcss": "^3.3.5",
 		"vite": "^5.0.0"
 	}
 }

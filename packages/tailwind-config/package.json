@@ -2,9 +2,12 @@
   "name": "@ew/tailwind-config",
   "private": true,
   "exports": {
-    ".": "./tailwind.config.ts"
+    ".": "./tailwind.config.ts",
+    "./index.css": "./index.css"
   },
   "devDependencies": {
-    "tailwindcss": "^3.3.6"
+    "@ew/eslint-config": "workspace:*",
+    "tailwindcss": "^3.3.6",
+    "@tailwindcss/line-clamp": "^0.4.4"
   }
 }
