@@ -29,6 +29,7 @@
 		"valtio": "^1.12.1"
 	},
 	"devDependencies": {
+		"@ew/typescript-config": "workspace:*",
 		"@redux-devtools/extension": "^3.3.0",
 		"@tailwindcss/line-clamp": "^0.4.4",
 		"@types/d3": "^7.4.3",
@@ -38,18 +39,10 @@
 		"@typescript-eslint/parser": "^6.10.0",
 		"@vitejs/plugin-react-swc": "^3.5.0",
 		"autoprefixer": "^10.4.16",
-		"concurrently": "^8.2.2",
-		"eslint": "^8.53.0",
 		"eslint-plugin-react-hooks": "^4.6.0",
 		"eslint-plugin-react-refresh": "^0.4.4",
-		"husky": "^8.0.0",
-		"lint-staged": "^15.2.0",
-		"npm-run-all": "^4.1.5",
 		"postcss": "^8.4.32",
-		"prettier": "^3.1.1",
-		"prettier-plugin-tailwindcss": "^0.5.9",
 		"shx": "^0.3.4",
-		"tailwindcss": "^3.3.6",
 		"typescript": "^5.2.2",
 		"vite": "^5.0.0"
 	},

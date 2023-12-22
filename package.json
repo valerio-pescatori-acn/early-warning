@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "turbo dev",
+    "build": "turbo build"
+  },
+  "devDependencies": {
+    "turbo": "latest",
+    "husky": "^8.0.0",
+    "lint-staged": "^15.2.0",
+    "eslint": "^8.53.0",
+    "prettier": "^3.1.1",
+    "prettier-plugin-tailwindcss": "^0.5.9",
+    "@ew/typescript-config": "workspace:*"
+  },
+  "packageManager": "pnpm@8.9.0"
+}
