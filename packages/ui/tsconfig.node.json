@@ -1,0 +1,3 @@
+{
+	"extends": "@ew/typescript-config/base.node.json"
+}

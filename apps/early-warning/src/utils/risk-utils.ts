@@ -1,13 +1,13 @@
-import { IconProps, Icons } from "../components/Icon";
+import { IconProps, Icon } from "@ew/ui/Icon";
 import { RiskEnum } from "./enum/RiskEnum";
 
 export const riskToIcon: Record<RiskEnum, React.FC<IconProps>> = {
-	"Potenziale rischio elevato": Icons.highRisk,
-	"Rischio elevato": Icons.highRisk,
-	"Potenziale rischio moderato": Icons.mediumRisk,
-	"Rischio moderato": Icons.mediumRisk,
-	"Nessun rischio": Icons.noRisk,
-	"Rischio basso/nullo": Icons.noRisk,
+	"Potenziale rischio elevato": Icon.highRisk,
+	"Rischio elevato": Icon.highRisk,
+	"Potenziale rischio moderato": Icon.mediumRisk,
+	"Rischio moderato": Icon.mediumRisk,
+	"Nessun rischio": Icon.noRisk,
+	"Rischio basso/nullo": Icon.noRisk,
 };
 
 export const riskToColor: Record<RiskEnum, string> = {

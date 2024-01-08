@@ -2,7 +2,7 @@
   "private": true,
   "scripts": {
     "dev": "turbo dev",
-    "build": "turbo build",
+    "build": "turbo type-check build",
     "prepare": "husky install"
   },
   "devDependencies": {

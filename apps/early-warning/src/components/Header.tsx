@@ -1,11 +1,11 @@
 import { useSnapshot } from "valtio";
-import Dropdown, { DropdownItem } from "./Dropdown";
 import { LogoSection } from "./LogoSection";
 import { Menu } from "./Menu";
 import { Userinfo } from "./Userinfo";
 import { store } from "../utils/store/store";
 import { useMemo, useState } from "react";
-import { Icons } from "./Icon";
+import { Dropdown, DropdownItem } from "@ew/ui/Dropdown";
+import { Icon } from "@ew/ui/Icon";
 import { AnimatePresence, motion } from "framer-motion";
 import { useWindowScroll } from "@uidotdev/usehooks";
 
@@ -55,7 +55,7 @@ export function Header() {
 								exit={{ opacity: 0, rotate: 180 }}
 								transition={{ duration: 0.5 }}
 							>
-								<Icons.close />
+								<Icon.close />
 							</motion.div>
 						) : (
 							<motion.div
@@ -65,7 +65,7 @@ export function Header() {
 								exit={{ opacity: 0, rotate: -180 }}
 								transition={{ duration: 0.5 }}
 							>
-								<Icons.burger />
+								<Icon.burger />
 							</motion.div>
 						)}
 					</AnimatePresence>
@@ -105,7 +105,7 @@ export function Header() {
 								initial={{ x: -100, opacity: 0 }}
 								animate={{ x: 0, opacity: 1 }}
 								transition={{ delay: 0.4, duration: 0.4 }}
-								className="border-t-2 border-t-primary-1"
+								className="border-t-primary-1 border-t-2"
 							>
 								<Menu />
 							</motion.div>

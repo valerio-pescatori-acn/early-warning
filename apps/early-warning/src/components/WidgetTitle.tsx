@@ -1,7 +1,7 @@
-import { IconProps, Icons } from "./Icon";
+import { IconProps, Icon } from "@ew/ui/Icon";
 
 export type WidgetTitleProps = IconProps & {
-	icon: keyof typeof Icons;
+	icon: keyof typeof Icon;
 	label: string;
 	amount: number | string | undefined;
 	wrapLabel?: boolean;
@@ -9,7 +9,7 @@ export type WidgetTitleProps = IconProps & {
 
 export const WidgetTitle = ({ icon, label, amount, wrapLabel = false, ...iconProps }: WidgetTitleProps) => (
 	<div className={`flex items-center ${wrapLabel ? "lg:flex-wrap lg:gap-y-2" : "flex-nowrap"}`}>
-		{Icons[icon]({ className: "h-6 w-6 lg:h-10 lg:w-10", ...iconProps })}
+		{Icon[icon]({ className: "h-6 w-6 lg:h-10 lg:w-10", ...iconProps })}
 		<span className="ml-2 text-lg font-bold lg:ml-4 lg:text-4xl">{amount}</span>
 		<span
 			className={`ml-auto text-base font-normal lg:text-lg lg:font-light ${

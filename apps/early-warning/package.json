@@ -7,16 +7,13 @@
 	"scripts": {
 		"dev": "vite",
 		"dev:host": "vite --host",
-		"build": "run-s build:react build:removeExistingResources build:mkdirForResources build:moveNewResources",
-		"build:react": "tsc && vite build",
-		"build:removeExistingResources": "shx rm -rf deployer/resources",
-		"build:mkdirForResources": "shx mkdir -p deployer/resources",
-		"build:moveNewResources": "shx mv dist/ deployer/resources/react",
-		"build:mta": "mbt build",
+		"build": "vite build",
+		"type-check": "tsc",
 		"lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
 		"preview": "vite preview"
 	},
 	"dependencies": {
+		"@ew/ui": "workspace:*",
 		"@uidotdev/usehooks": "^2.4.1",
 		"axios": "^1.6.2",
 		"d3": "^7.8.5",
@@ -33,6 +30,7 @@
 		"@ew/typescript-config": "workspace:*",
 		"@redux-devtools/extension": "^3.3.0",
 		"@types/d3": "^7.4.3",
+		"@types/node": "^20.10.7",
 		"@types/react": "^18.2.37",
 		"@types/react-dom": "^18.2.15",
 		"@vitejs/plugin-react-swc": "^3.5.0",

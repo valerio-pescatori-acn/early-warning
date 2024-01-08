@@ -229,7 +229,7 @@ const addCircle: React.FC<IconProps> = ({ className = "inline", color = "primary
 	</svg>
 );
 
-export const Icons = {
+export const Icon = {
 	highRisk,
 	mediumRisk,
 	noRisk,

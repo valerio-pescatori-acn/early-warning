@@ -1,4 +1,4 @@
-import { Icons } from "./Icon";
+import { Icon } from "@ew/ui/Icon";
 
 export type WidgetOrderingProps = {
 	isFirst: boolean;
@@ -8,15 +8,15 @@ export type WidgetOrderingProps = {
 };
 
 export const WidgetOrdering = ({ isFirst, isLast, onMoveUp, onMoveDown }: WidgetOrderingProps) => (
-	<div className="absolute left-full top-0  hidden flex-col gap-6 rounded-r-lg border border-blue-light bg-blue-lighter p-2 lg:flex">
+	<div className="border-blue-light bg-blue-lighter absolute  left-full top-0 hidden flex-col gap-6 rounded-r-lg border p-2 lg:flex">
 		<button onClick={() => onMoveUp()}>
-			<Icons.arrowUp
+			<Icon.arrowUp
 				color={isFirst ? "primary-5" : undefined}
 				className={`inline ${isFirst ? "cursor-not-allowed" : "cursor-pointer"}`}
 			/>
 		</button>
 		<button onClick={() => onMoveDown()}>
-			<Icons.arrowDown
+			<Icon.arrowDown
 				color={isLast ? "primary-5" : undefined}
 				className={`inline ${isLast ? "cursor-not-allowed" : "cursor-pointer"}`}
 			/>
